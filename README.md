@@ -3,7 +3,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Western Governors Unversity.
-- ⚙️ Backend: `java`, `spring`, `go`, `node`
+- ⚙️ Backend: `Java`, `Spring`, `Go`, `Node`
 - ⚙️ Frontend: `Angular`, `React`, `Html`, `CSS`
 
 
