@@ -3,7 +3,9 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Western Governors Unversity.
-- ⚙️ My tech stacl includes: `java`
+- ⚙️ Backend: `java`, `spring`, `go`, `node`
+- ⚙️ Frontend: `Angular`, `React`, `Html`, `CSS`
+
 
 
 <!--
