@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+- 🔭 I’m currently a CS student at Mansoura Unversity.
+
+
 <!--
 **JonathanDowdell/JonathanDowdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
