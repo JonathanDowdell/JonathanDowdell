@@ -5,7 +5,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔭 I’m currently a CS student at Western Governors Unversity.
 - ⚙️ Backend: `Java`, `Spring`, `Go`, `Node`
 - 🚘 Frontend: `Angular`, `React`, `Html`, `CSS`
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/millycodes/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/jonathan-dowdell-09719a180/">LinkedIn</a>, <jdowde2@wgu.edu>
 
 
 <!--
