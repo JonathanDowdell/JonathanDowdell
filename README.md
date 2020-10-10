@@ -3,7 +3,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Western Governors Unversity.
-- ⚙️ Backend: `Java`, `Spring`, `Go`, `Node`
+- ⚙️ Backend: `Java`, `Spring`, `Python`, `Go`, `Node`, `C++`
 - 🚘 Frontend: `Angular`, `React`, `Html`, `CSS`
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jonathan-dowdell-09719a180/">LinkedIn</a>, <jdowde2@wgu.edu>
 
