@@ -3,7 +3,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a CS student at Western Governors Unversity.
-- ⚙️ Backend: `Java`, `Spring`, `Python`, `Go`, `Node`, `C++`
+- ⚙️ Backend: `Java`, `Spring`, `Python`, `Go`, `Node`
 - 🚘 Frontend: `Angular`, `React`, `Html`, `TypeScript`, `Javascript`, `CSS`
 - 📱 Mobile: `Swift`, `Java`, `Flutter`
 - 📚 Books:  <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/">Clean Code</a>,
